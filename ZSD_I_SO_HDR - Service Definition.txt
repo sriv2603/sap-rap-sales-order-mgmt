@@ -1,6 +1,0 @@
-@EndUserText.label: 'Service Deiniftion: ZI_SO_HDR'
-define service ZSD_I_SO_HDR {
-  expose Zi_so_hdr;
-  expose ZI_SO_item;
-  expose ZI_SO_PARTNER;
-}
